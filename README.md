@@ -1,4 +1,4 @@
-# EMBOpopgen2017
+# EMBO Practical Course: Population Genomics: background and tools
 
 <table style="width:100%">
    <tr>
@@ -15,5 +15,12 @@
 
 
 
-
-EMBO Practical Course: Population Genomics: background and tools
+Days |Lessons \& Tutorials | Data \& Scripts |
+------------ | ------------- | ------------- |
+day 1 |||
+day 2 |||
+day 3 |||
+day 6 |||
+day 7 |||
+day 8 |||
+day 9 |||
