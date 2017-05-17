@@ -5,7 +5,7 @@
    <td><img src="./img/elixir_ita_logo.png" alt="yay" height="100" width="150"></td>
    <tr/>
    <tr>
-     <td><img src="./img/embo2017.png" alt="yay" height="100" width="150"></td>
+     <td><img src="./img/embo2017.png" alt="yay" height="100" width="400"></td>
      <tr/>
 </table>
 
