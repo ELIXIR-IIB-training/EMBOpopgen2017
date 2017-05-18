@@ -16,7 +16,7 @@
 </table>
 
 ## Connections
-WiFi and SSH instructions [here](EMBOpopgen2017/WiFi-SSHinstruction.md)
+WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 
 ## Timetable
 
