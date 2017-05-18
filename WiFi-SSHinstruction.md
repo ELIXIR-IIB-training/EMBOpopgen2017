@@ -16,7 +16,7 @@ The filesystem has been generated according to this structure
 
 To connect to the INFN machine using SSH from a Linux terminal use:
 
-ssh yourusername@elixir-it-trein.recas.ba.infn.it
+ssh yourusername@elixir.recas.ba.infn.it
 
 Use uername and password have been given to you at the reception
 
