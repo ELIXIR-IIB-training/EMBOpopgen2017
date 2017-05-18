@@ -15,7 +15,8 @@
 
 </table>
 
-
+## Connections
+[Instructions](./WiFi-SSHinstructions.md)
 
 Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |

@@ -4,6 +4,7 @@
 ##  WiFi
 
 network name: embo2017
+
 password: popgen
 
 ##  SSH
