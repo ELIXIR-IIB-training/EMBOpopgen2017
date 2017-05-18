@@ -18,7 +18,7 @@ To connect to the INFN machine using SSH from a Linux terminal use:
 
 ssh yourusername@elixir.recas.ba.infn.it
 
-Use uername and password have been given to you at the reception
+Username and password were given to you at the reception
 
 
  #### thanks to Giacinto Donvito, Stefano Nicotri, Mario Aversano, Claudia Rallo
