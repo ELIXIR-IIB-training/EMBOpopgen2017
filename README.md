@@ -1,4 +1,6 @@
-# EMBO Practical Course: Population Genomics: background and tools
+# EMBO Practical Course:
+
+# Population Genomics: background and tools
 
 <table style="width:100%">
    <tr>
