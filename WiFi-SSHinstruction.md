@@ -1,12 +1,12 @@
 
 
 
-##WiFi
+##  WiFi
 
 network name: embo2017
 password: popgen
 
-#SSH
+##  SSH
 For this course we will work on the High Performance Cluster of the [Istituto Nazionale di Fisica Nucleare](https://www.ba.infn.it/index.php/en/)
 
 The filesystem has been generated according to this structure
