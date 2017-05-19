@@ -33,3 +33,8 @@ day 6 |||
 day 7 |||
 day 8 |||
 day 9 |||
+
+
+## Group Projects
+
+[Project 1](EMBOpopgen2017/projects/project1.md)
