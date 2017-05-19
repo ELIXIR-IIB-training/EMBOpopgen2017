@@ -25,7 +25,7 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |
 day 1 |||
-day 2 |||
+day 2 |[Data QC and ExploratoryData Analysis I ](day2/olivier/morning_session_course.pptx.pdf)||
 day 3 |||
 day 6 |||
 day 7 |||
