@@ -1,6 +1,6 @@
 ## Positive selection in North-East Siberia
 
-### AIM:
+### Aim
 To find a signal(s) of positive selection on chromosome 11 in North-Eastern Siberians
 
 ### Data
@@ -18,4 +18,4 @@ vcf location:/embo/Chiara/project1
 - data quality check
 - chromosome-wide scan for positive selection (think which measure(s)  is(are) appropriate)
 - which genes are involved? can you identify specific variants?  
-- what could be the driver(s) of selection? 
+- what could be the driver(s) of selection?
