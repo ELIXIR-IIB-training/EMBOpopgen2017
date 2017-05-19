@@ -37,4 +37,4 @@ day 9 |||
 
 ## Group Projects
 
-[Project 1](EMBOpopgen2017/projects/project1.md)
+[Project 1](projects/project1.md)
