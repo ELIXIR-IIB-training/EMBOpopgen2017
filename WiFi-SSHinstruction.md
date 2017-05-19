@@ -16,9 +16,18 @@ The filesystem has been generated according to this structure
 
 To connect to the INFN machine using SSH from a Linux terminal use:
 
-ssh yourusername@elixir.recas.ba.infn.it
+```
+ssh -Y yourusername@elixir.recas.ba.infn.it
+```
+the -Y tag enable graphical options
 
 Username and password were given to you at the reception
+
+To open pdfs use (evince)[https://en.wikipedia.org/wiki/Evince]
+
+```
+evince  mypdf.pdf
+```
 
 
  #### thanks to Giacinto Donvito, Stefano Nicotri, Mario Aversano, Claudia Rallo
