@@ -88,3 +88,8 @@ tabix -p vcf chr20.chunkALL.imputed.approach3.vcf.gz
 cat chr20.chunkALL.imputed.approach3_info | awk '{ if ($7 >= 0.4) print "20", $3; }' > chr20.chunkALL.imputed.approach3.filtering.txt
 vcftools --gzvcf chr20.chunkALL.imputed.approach3.vcf.gz --positions chr20.chunkALL.imputed.approach3.filtering.txt --recode --stdout | bgzip -c > chr20.chunkALL.imputed.filtered.approach3.vcf.gz
 
+
+
+
+
+
