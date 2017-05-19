@@ -1,14 +1,20 @@
-##A Selective Sweep on a Deleterious Mutation in CPT1A in Arctic Populations
-[*Clemente et al 2014 AJHG*](http://www.sciencedirect.com/science/article/pii/S0002929714004224)
+## Positive selection in North-East Siberia
 
 ### AIM:
-
-to refine the signal of positive selection in a 3 Mb chromosome 11 region containing 79 protein-coding genes
+To find a signal(s) of positive selection on chromosome 11 in North-Eastern Siberians
 
 ### Data
 
-vcf file of whole chromosome 11 for 61 individuals from three populations:
+Sequence data from 61 individuals belonging to three populations with a mean coverage of ~40X using the Complete Genomics platform. Chromosome 11 has been extracted and a vcf file is made available for:
 
 11 East Asia
 25 Europeans
 25 NE Siberia
+
+vcf location:/embo/Chiara/project1
+
+### Steps for your analysis
+
+- data quality check
+- chromosome-wide scan for positive selection (think which measure(s)  is(are) appropriate)
+- which genes are involved? can you identify specific variants?  
