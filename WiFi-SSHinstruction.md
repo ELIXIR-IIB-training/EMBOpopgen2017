@@ -23,7 +23,7 @@ the -Y tag enable graphical options
 
 Username and password were given to you at the reception
 
-To open pdfs use (evince)[https://en.wikipedia.org/wiki/Evince]
+To open pdfs use [evince](https://en.wikipedia.org/wiki/Evince)
 
 ```
 evince  mypdf.pdf
