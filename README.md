@@ -22,7 +22,9 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 
 ## Timetable
 
-Days |Lessons \& Tutorials | Data \& Scripts |
+#### All raw data and software are available on the INFN machine 
+
+Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1 |||
 day 2 |[Data QC and ExploratoryData Analysis I ](day2/olivier/morning_session_course.pptx.pdf)||
