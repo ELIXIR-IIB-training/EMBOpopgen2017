@@ -18,3 +18,4 @@ vcf location:/embo/Chiara/project1
 - data quality check
 - chromosome-wide scan for positive selection (think which measure(s)  is(are) appropriate)
 - which genes are involved? can you identify specific variants?  
+- what could be the driver(s) of selection? 
