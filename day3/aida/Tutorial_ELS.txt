@@ -38,14 +38,14 @@ e.g. Gorilla_gorilla_Kaisi.chr1.physic_dist.cov5.HMMinput
 #PROGRAM
 #THE ELS_HMM program is already installed. 
 #If you want to use it later: it is publicly available, github: https://github.com/StephanePeyregne/
-#Reference: Pereygne et al., bioRxiv
+#Reference: Peyregne et al., bioRxiv
 
 
 
 
 
 #SCRIPTS
-#There are two scripts we will use to manage the results, kindly provided by Stephane Pereygne (from the MPI-EVA in Leipzig). They are here:
+#There are two scripts we will use to manage the results, kindly provided by Stephane Peyregne (from the MPI-EVA in Leipzig). They are here:
 /embo/data/aida/ELS/scripts
 
 #You can use them from there or copy to your own directory, to a folder named ‘scripts’.
@@ -132,12 +132,12 @@ https://github.com/StephanePeyregne/ELS/README
 #INFER ELS REGIONS
 
 
-#We can now combine information across consecutive sites to infer external and ELS regions. To do this, one needs to decide the threshold of probabilities to define an ELS region. You can play with these parameters, but to start I will use the one that was suggested to me by Stephane Pereygne.
+#We can now combine information across consecutive sites to infer external and ELS regions. To do this, one needs to decide the threshold of probabilities to define an ELS region. You can play with these parameters, but to start I will use the one that was suggested to me by Stephane Peyregne.
 
 #Stephane defines (based on simulation results) a putative ELS region a stretch of high posterior probabilities (>0.7) for ELS state that is uninterrupted by sites with low probability (<0.1) for ELS.  
 
 
-#Stephane Pereygne kindly provided a perl script to do this: postprocessing.ELS.pl. Run it as:
+#Stephane Peyregne kindly provided a perl script to do this: postprocessing.ELS.pl. Run it as:
 /embo/data/aida/ELS/scripts/postprocessing.ELS.pl 0.7 0.1 < input_file > output_file
 
 
