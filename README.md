@@ -28,7 +28,7 @@ Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1 |||
 day 2 |[Data QC and ExploratoryData Analysis I ](day2/olivier/morning_session_course.pdf)  - [Data QC and ExploratoryData Analysis II ](day2/olivier/afternoon_session_course.pdf)|[practical I](day2/olivier/morning_session_practical.pdf) -  [practical II](day2/olivier/afternoon_session_practical.pdf) -  [commands list I ](day2/olivier/morning_session_practical.sh)  -   [commands list II](day2/olivier/afternoon_session_practical.sh) |
-day 3 ||  [AlleleFreqDyn](day3/andyclark/AlleleFreqDyn.txt) - [InfiniteSites](day3/andyclark/InfiniteSites.txt) - [SampleData1](day3/andyclark/SampleData1.txt)  - [SampleData2](SampleData2.txt) -  [SampleData3](day3/andyclark/SampleData3.txt) - [WFsim](day3/andyclark/WFsim.txt)|
+day 3 |[Species divergence](day3/aida/EMBO_Napoli_May2017_lectureAidatoprint.pdf) |  [AlleleFreqDyn](day3/andyclark/AlleleFreqDyn.txt) - [InfiniteSites](day3/andyclark/InfiniteSites.txt) - [SampleData1](day3/andyclark/SampleData1.txt)  - [SampleData2](SampleData2.txt) -  [SampleData3](day3/andyclark/SampleData3.txt) - [WFsim](day3/andyclark/WFsim.txt)| - [ELS](day3/aida/Tutorial_ELS.txt) - [MK](day3/aida/Tutorial_MK.txt) | 
 day 6 |||
 day 7 |||
 day 8 |||
