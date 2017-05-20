@@ -34,7 +34,7 @@ par(new=TRUE)
 # ASSIGNMENT 1: Conduct runs of the above simulation, and calculate the variance
 # in allele frequencies across 20 independent sample populations for each of
 # generations 20 through 200 in steps of 20.  Plot the results.
-# Hint: the variance of allele freq at gen i is var(pcur[i,]
+# Hint: the variance of allele freq at gen i is var(pcur[i,])
 
 # ASSIGNMENT 2: Plot the expected time to fixation (when allele frequency is
 # either zero or one) for 20 populations with population sizes 50, 100, 150 and 200.
