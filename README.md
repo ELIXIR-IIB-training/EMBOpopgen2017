@@ -22,6 +22,17 @@ WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
 
 ## Timetable
 
+#### Speakers schedule
+- Andrés Aida 18-22 May
+- Manica Andrea 18-26 May
+- Clark Andrew 18-23 May
+- Hellenthal Garrett 19-26 May
+- Moltke Ida 18-24 May
+- Sikora Martin 22-25 May
+- Currat Mathias 18-26 May
+- Delaneau Olivier 18-21 May
+- Gerbault Pascale 18-24 May 
+
 #### All raw data and software are available on the INFN machine
 
 Days |Lessons  | Tutorials |
