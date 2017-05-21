@@ -51,3 +51,13 @@ day 9 |||
 ## Group Projects
 
 [Project 1](projects/project1.md)
+
+
+## Day trip to Procida
+
+
+<table style="width:100%">
+   <tr>
+     <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
+     <tr/>
+</table>
