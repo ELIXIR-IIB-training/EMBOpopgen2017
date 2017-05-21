@@ -63,8 +63,24 @@ day 9 |||
 </table>
 
 
+### Shedule
+
+- 9.00 meet in the hotel courtyard
+- 10.45 boat to Procida
+<table style="width:100%">
+   <tr>
+     <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
+     <tr/>
+</table>
+
+- 11.45 arrival at Procida and walk to Chiesa di Santa Margherita
+
 <table style="width:100%">
    <tr>
      <td><img src="./img/procidamargherita.png" alt="yay" height="400" width="500"></td>
      <tr/>
 </table>
+
+- 12:30 lunch
+
+- 1.30 Research Clinics 
