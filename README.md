@@ -63,13 +63,13 @@ day 9 |||
 </table>
 
 
-### Shedule
+### Schedule
 
 - 9.00 meet in the hotel courtyard
 - 10.45 boat to Procida
 <table style="width:100%">
    <tr>
-     <td><img src="./img/calata.png" alt="yay" height="200" width="700"></td>
+     <td><img src="./img/calata.png" alt="yay" height="400" width="500"></td>
      <tr/>
 </table>
 
