@@ -85,5 +85,6 @@ day 9 |||
 
 - 13:30 Research Clinics
 - 15:00 Free time on the Island
-- 17:40 Meet at the Porto in Procida and boat back to Napoli
+- 17:40 Meet at the Porto in Procida
+- 17:55 Boat back to Napoli
 - 18:55 Arrival at Napoli
