@@ -65,15 +65,15 @@ day 9 |||
 
 ### Schedule
 
-- 9.00 meet in the hotel courtyard
-- 10.45 boat to Procida
+- 09:30 Meet in the hotel courtyard
+- 10:45 Boat to Procida
 <table style="width:100%">
    <tr>
      <td><img src="./img/calata.png" alt="yay" height="400" width="500"></td>
      <tr/>
 </table>
 
-- 11.45 arrival at Procida and walk to Chiesa di Santa Margherita
+- 11:45 arrival at Procida and walk to Chiesa di Santa Margherita
 
 <table style="width:100%">
    <tr>
@@ -83,4 +83,7 @@ day 9 |||
 
 - 12:30 lunch
 
-- 1.30 Research Clinics
+- 13:30 Research Clinics
+- 15:00 Free time on the Island
+- 17:40 Meet at the Porto in Procida and boat back to Napoli
+- 18:55 Arrival at Napoli
