@@ -61,3 +61,10 @@ day 9 |||
      <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
      <tr/>
 </table>
+
+
+<table style="width:100%">
+   <tr>
+     <td><img src="./img/procidamargherita.png" alt="yay" height="400" width="500"></td>
+     <tr/>
+</table>
