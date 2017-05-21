@@ -69,7 +69,7 @@ day 9 |||
 - 10.45 boat to Procida
 <table style="width:100%">
    <tr>
-     <td><img src="./img/1348.jpg" alt="yay" height="200" width="700"></td>
+     <td><img src="./img/calata.png" alt="yay" height="200" width="700"></td>
      <tr/>
 </table>
 
@@ -83,4 +83,4 @@ day 9 |||
 
 - 12:30 lunch
 
-- 1.30 Research Clinics 
+- 1.30 Research Clinics
