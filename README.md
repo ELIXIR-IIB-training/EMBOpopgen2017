@@ -2,7 +2,7 @@
 
 # Population Genomics: background and tools
 
-## [official EMBO website](http://meetings.embo.org/event/17-population-genomics) 
+## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics) 
 
 <table style="width:100%">
    <tr>
