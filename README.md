@@ -1,8 +1,8 @@
-# EMBO Practical Course:
+# EMBO Practical Course
 
 # Population Genomics: background and tools
 
-## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics) 
+## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics)
 
 <table style="width:100%">
    <tr>
@@ -17,7 +17,16 @@
 
 </table>
 
-## Twitter #EMBOpopgen
+##  #EMBOpopgen
+</table>
+
+<table style="width:100%">
+ <tr>
+   <td><img src="./img/tw.png" alt="yay" height="100" width="100"></td>
+   <tr/>
+
+</table>
+
 
 ## Connections
 WiFi and SSH instructions [here](WiFi-SSHinstruction.md)
