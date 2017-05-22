@@ -96,7 +96,7 @@ day 9 |||
 
 <table style="width:100%">
    <tr>
-     <td><img src="./img/pompei1.jpg" alt="yay" height="300" width="500"></td>
+     <td><img src="./img/pompei1.jpg" alt="yay" height="300" width="600"></td>
      <tr/>
 </table>
 
