@@ -54,7 +54,7 @@ day 3 |[Genetic Forces](day3/andyclark/EMBO-popgen-Forces-CLARK.pdf) - [Species 
 day 4 |[Natural Selection](day4/pascale/2017.05.21EMBO_PG.pdf) - [GWAS](day4/andrea/2017EMBOManicaselection.pdf) |[Natural Selection tutorial](day4/pascale/20170521PascalePractical.sh) [Natural Selection data](day4/pascale/20170521EMBO_PGPractical.tar.gz) - [GWAS tutorial](day4/andrea/2017EMBOManicaonGWAS.pdf)|
 day 5 |[Coalescence made fun and easy](day5/andyida/coalescencenotes.pdf) - [Relatedeness Local](day5/ida/RelatednessLocal.pdf) - [Relatedeness Global](day5/ida/RelatednessLocal.pdf) |[Coalescence exercises](day5/andyida/EMBO_CoalescenceExercises.pdf) - [Relatedeness exercises](http://popgen.dk/ida/EMBONaples2017/web/)|
 day 6 |||
-day 7 |||
+day 7 |[Clustering Lecture](day7/garret/EMBONaples_ClusteringAlgorithmsLecture.pdf)|[Clustering Practical](day7/garret/EMBONaples_ClusteringAlgorithmsPractical.pdf)|
 day 8 |||
 day 9 |||
 
