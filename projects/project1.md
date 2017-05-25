@@ -20,7 +20,7 @@ drwxr-xr-x 8 Chiara Chiara       4096 mag 20 15:15 ../
 -rw-r--r-- 1 Chiara Chiara        423 mag 20 11:49 NE_Siberians.dat   ## list of 25 NE Siberians
 -rw-rw-r-- 1 Chiara Chiara 1188553037 mag 20 15:43 project1.chr11.form.vcf  ## vcf of data
 -rw-r--r-- 1 Chiara Chiara        211 mag 20 11:49 Public_EastAsians.dat  ## list of 11 East Asian
--rw-r--r-- 1 Chiara Chiara        444 mag 20 11:49 Public_Europeans.dat   ## list of 25 Europeans 
+-rw-r--r-- 1 Chiara Chiara        444 mag 20 11:49 Public_Europeans.dat   ## list of 25 Europeans
 
 
 ```
@@ -30,3 +30,7 @@ drwxr-xr-x 8 Chiara Chiara       4096 mag 20 15:15 ../
 - chromosome-wide scan for positive selection (think which measure(s)  is(are) appropriate)
 - which genes are involved? can you identify specific variants?  
 - what could be the driver(s) of selection?
+
+
+### The original paper
+[here](projects/1-s2.0-S0002929714004224-main.pdf)
