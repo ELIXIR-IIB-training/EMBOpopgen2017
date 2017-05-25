@@ -55,7 +55,7 @@ day 4 |[Natural Selection](day4/pascale/2017.05.21EMBO_PG.pdf) - [GWAS](day4/and
 day 5 |[Coalescence made fun and easy](day5/andyida/coalescencenotes.pdf) - [Relatedeness Local](day5/ida/RelatednessLocal.pdf) - [Relatedeness Global](day5/ida/RelatednessLocal.pdf) |[Coalescence exercises](day5/andyida/EMBO_CoalescenceExercises.pdf) - [Relatedeness exercises](http://popgen.dk/ida/EMBONaples2017/web/)|
 day 6 |||
 day 7 |[Clustering Lecture](day7/garret/EMBONaples_ClusteringAlgorithmsLecture.pdf) - [F stats](day7/martin/embo_lecture_fstats.pdf) |[Clustering Practical](day7/garret/EMBONaples_ClusteringAlgorithmsPractical.pdf) - [F stats practical](day7/martin/practical)|
-day 8 |[Demography lecture](day8/mathias/MatCurrat_EMBO_PopGen17-lecture.pdf) | [Demography practicals](day8/mathias/MatCurrat_EMBO_PopGen17-Practicals.pdf) |
+day 8 |[Demography lecture](day8/mathias/MatCurrat_EMBO_PopGen17-lecture.pdf) -  [HapBased-Demography Lecture](day8/garret/EMBONaples_HapBasedDemographyLecture.pdf) | [Demography practicals](day8/mathias/MatCurrat_EMBO_PopGen17-Practicals.pdf) - [HapBased-Demography Practical](day8/garret/EMBONaples_HapBasedDemographyPractical.pdf)|
 day 9 |||
 
 
