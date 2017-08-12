@@ -4,6 +4,8 @@
 
 ## Go to the [official EMBO website](http://meetings.embo.org/event/17-population-genomics)
 
+## Highlights from the 2017 course [here](EMBOpopgen2017/2017_highligths.md)
+
 <table style="width:100%">
    <tr>
      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700"></td>
